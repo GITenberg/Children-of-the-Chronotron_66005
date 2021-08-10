@@ -1,11 +1,16 @@
 _repo: Children-of-the-Chronotron_66005
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66005-h/images/cover.jpg
 creator:
   author:
     agent_name: Byrne, S.J.
     gutenberg_agent_id: '53589'
     url: http://www.gutenberg.org/2009/agents/53589
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66005#Children-of-the-Chronotron
 gutenberg_issued: '2021-08-07'
 gutenberg_type: Text
 identifiers:
